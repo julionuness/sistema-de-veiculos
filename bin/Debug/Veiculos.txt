@@ -1,0 +1,6 @@
+Tipo: Carro
+Modelo: carro
+Ano: 2002
+Potência: 200
+Velocidade Média: 500 km/h
+

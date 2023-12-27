@@ -1,0 +1,7 @@
+C:\Users\julio\Downloads\Atividade3\bin\Debug\Atividade3.exe.config
+C:\Users\julio\Downloads\Atividade3\bin\Debug\Atividade3.exe
+C:\Users\julio\Downloads\Atividade3\bin\Debug\Atividade3.pdb
+C:\Users\julio\Downloads\Atividade3\obj\Debug\Atividade3.csproj.AssemblyReference.cache
+C:\Users\julio\Downloads\Atividade3\obj\Debug\Atividade3.csproj.CoreCompileInputs.cache
+C:\Users\julio\Downloads\Atividade3\obj\Debug\Atividade3.exe
+C:\Users\julio\Downloads\Atividade3\obj\Debug\Atividade3.pdb
